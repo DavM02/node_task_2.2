@@ -1,3 +1,2 @@
 to run this application: 
-npm install
-npm start
+npm install, then npm start
